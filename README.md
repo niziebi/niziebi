@@ -28,4 +28,4 @@
 🛠️ Minecraft server, DiscordAPI, TwitterAPI
 </code></pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=niziebi&count_private=true&show_icons=true&theme=tokyonight" width="360px">
+<img src="https://github-readme-stats.vercel.app/api?username=niziebi&count_private=true&show_icons=true&theme=tokyonight" width="390px">
